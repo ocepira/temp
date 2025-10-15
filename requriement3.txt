@@ -23,7 +23,7 @@ torch==2.8.0
 torchaudio==2.8.0
 torchvision==0.23.0
 timm==1.0.19
-ultralytics==8.3.200
+ultralytics==8.3.214
 catboost==1.2.8
 GPy==1.13.2
 lightgbm==4.6.0
